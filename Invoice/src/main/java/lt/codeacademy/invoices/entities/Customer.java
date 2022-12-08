@@ -27,5 +27,6 @@ public class Customer {
     private String adresas;
     private String telNumeris;
     private String klientoStatusas;
-    //asdfcdfs
+
+
 }
